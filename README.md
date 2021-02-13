@@ -3,7 +3,7 @@ Following CPU scheduling mechanisms need to be implemented:
 1.	FCFS
 2.	SJF
 3.	Priority (non-preemptive)
-4.      Preemptive priority
+4. Preemptive priority
 5.	MLFQ
 6.	Round Robin  
 7.	Lottery (proportional share)
